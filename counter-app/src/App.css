@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: beige;
+  display: flex;
+  justify-content: center;
+}
+
+.counter-btn{
+  background-color: bisque;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.counter{
+  margin-top: 10px;
+  margin-left: 140px;
+} 
